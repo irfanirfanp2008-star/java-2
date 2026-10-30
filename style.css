@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+}
+.all{
+    display:flex;
+    align-items: center;
+    gap: 120px;
+}
+.heroimg img{
+    width: 800px;
+    height: 725px;
+    margin: 0%;
+    position: relative;
+}
+
+input{
+      border: none;
+      height: 20px;
+    }
+hr{
+    margin: 0%;
+}
+button{
+    padding: 8px 50px;
+    border: none;
+    border-radius: 25px;
+    background-color: aquamarine;
+    margin: 2px;
+}
+h1{
+    font-size: 50px;
+}
+.heroc{
+    display: flex;
+    gap: 30px;
+    position:absolute;
+    bottom: 20px;
+    left: 180px;
+}
+span{
+    margin: 0%;
+    font-size: small;
+}
+h5{
+    margin: 0%;
+    font-weight: 100;
+}
+.tik{
+    display: flex;
+    align-items: center;
+    margin: 0%;
+}

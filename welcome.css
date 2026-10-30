@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+.allo img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.heroco{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    position: relative;
+    color:blanchedalmond;
+}
+.heroco span{
+    font-size: larger;
+}
+.sidec{
+    display: flex;
+    gap: 20px;
+}
+.sc{
+    position: relative;
+    color: antiquewhite;
+    text-align: center;
+    font-size: xx-large;
+}
+
